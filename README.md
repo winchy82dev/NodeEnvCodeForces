@@ -30,7 +30,7 @@ This project allows you to test your Javascript code before submitting your answ
 [![](./img/node.png)]()
 
 ## Under the hood:
-The **`tasks.json`** file runs from the following command in `cmd.exe` on windows, without showing you the terminal :
+The **`tasks.json`** file runs the following command in `cmd.exe` on windows, without showing you the terminal :
 
 ```bash
 node script.js < ./input.txt > ./output.txt 
